@@ -1,5 +1,4 @@
 # News-Classifier-
-This is a repository about the project I am currently working in
 
 This is a not finished project. All code here can be modified in the near future.
 
